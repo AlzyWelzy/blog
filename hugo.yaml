@@ -12,6 +12,9 @@ theme: PaperMod
 enableEmoji: true
 
 params:
+  assets:
+    favicon: img/personal/profile.jpg
+
   homeInfoParams:
     title: Manvendra Rajpoot
     # description: "AlzyWelzy's Blog"
