@@ -14,6 +14,10 @@ enableEmoji: true
 params:
   assets:
     favicon: img/personal/profile.jpg
+    favicon16x16: img/personal/profile.jpg
+    favicon32x32: img/personal/profile.jpg
+    apple_touch_icon: img/personal/profile.jpg
+    safari_pinned_tab: img/personal/profile.jpg
 
   homeInfoParams:
     title: Manvendra Rajpoot
