@@ -1,0 +1,57 @@
+baseURL: "https://blog.alzywelzy.com"
+languageCode: en-us
+title: Manvendra Rajpoot
+theme: PaperMod
+
+# # Enable syntax highlighting
+# pygmentsCodeFences: true
+# pygmentsCodeFencesGuessSyntax: true
+# pygmentsStyle: monokai
+
+# Enable Emoji
+enableEmoji: true
+
+params:
+  homeInfoParams:
+    title: Manvendra Rajpoot
+    # description: "AlzyWelzy's Blog"
+    Content: "Welcome to my blog. Here you'll find a lot of cool information about a lot of cool stuff."
+
+  socialIcons:
+    - name: facebook
+      url: "https://facebook.com/AlzyWelzyy"
+    - name: twitter
+      url: "https://twitter.com/AlzyWelzy"
+    - name: github
+      url: "https://github.com/AlzyWelzy"
+
+  label:
+    icon: img/personal/profile.jpg
+
+  cover:
+    linkFullImages: true
+
+  ShowBreadcrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+  ShowCodeCopyButtons: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
