@@ -12,4 +12,4 @@ categories: ["tech", "alzywelzy"]
 
 ## Welcome to my blog
 
-This is my first post
+This is my first post on my blog.
