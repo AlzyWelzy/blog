@@ -8,112 +8,205 @@ categories: ["fitness", "workout", "routine"]
 
 # **Workout Plan**
 
-## **Day 1:**
+## **Day 1 (Sunday): Full Body Circuit**
 
-- **Cardiovascular Exercise:**
+- Push-Ups
+  - Sets: 3
+  - Repetitions: 15-20
+- Squat Jumps
+  - Sets: 3
+  - Repetitions: 15-20
+- Pull-Ups
+  - Sets: 3
+  - Repetitions: 8-12
+- Burpees
+  - Sets: 3
+  - Repetitions: 12-15
+- Mountain Climbers
+  - Sets: 3
+  - Repetitions: 20-30
+- Plank Jacks
+  - Sets: 3
+  - Repetitions: 15-20
+- Jumping Lunges
+  - Sets: 3
+  - Repetitions: 12-15
+- Russian Twists
+  - Sets: 3
+  - Repetitions: 20-30
 
-  - 30 minutes of running or cycling.
+*Rest 60 seconds between sets.*
 
-- **Strength Training:**
-  - Bench Press: 3 sets of 10 reps.
-  - Dumbbell Shoulder Press: 3 sets of 12 reps.
-  - Tricep Dips: 3 sets of 15 reps.
-  - Flys: 3 sets of 12 reps.
-  - Lateral Raises: 3 sets of 15 reps.
-  - Front Raises: 3 sets of 12 reps.
-  - Overhead Tricep Extensions: 3 sets of 15 reps.
+## **Day 2 (Monday): Chest, Shoulders, Triceps**
 
-## **Day 2:**
+- Bench Press
+  - Sets: 4
+  - Repetitions: 6-8
+- Dumbbell Shoulder Press
+  - Sets: 4
+  - Repetitions: 6-8
+- Tricep Dips
+  - Sets: 3
+  - Repetitions: 8-12
+- Flys
+  - Sets: 3
+  - Repetitions: 8-12
+- Lateral Raises
+  - Sets: 3
+  - Repetitions: 8-12
+- Front Raises
+  - Sets: 3
+  - Repetitions: 8-12
+- Overhead Tricep Extensions
+  - Sets: 3
+  - Repetitions: 8-12
 
-- **Cardiovascular Exercise:**
+*Rest 60 seconds between sets.*
 
-  - 30 minutes of swimming or brisk walking.
+## **Day 3 (Tuesday): Back, Biceps, Abs**
 
-- **Strength Training:**
-  - Pull-Ups: 3 sets to failure.
-  - Rows: 3 sets of 12 reps.
-  - Lat Pull-Downs: 3 sets of 15 reps.
-  - Bicep Curls: 3 sets of 12 reps.
-  - Hammer Curls: 3 sets of 15 reps.
-  - Crunches: 3 sets of 20 reps.
-  - Leg Raises: 3 sets of 15 reps.
-  - Reverse Crunches: 3 sets of 20 reps.
+- Pull-Ups
+  - Sets: 4
+  - Repetitions: 6-8
+- Rows
+  - Sets: 4
+  - Repetitions: 6-8
+- Lat Pull-Downs
+  - Sets: 3
+  - Repetitions: 8-12
+- Bicep Curls
+  - Sets: 3
+  - Repetitions: 8-12
+- Hammer Curls
+  - Sets: 3
+  - Repetitions: 8-12
+- Crunches
+  - Sets: 3
+  - Repetitions: 12-15
+- Leg Raises
+  - Sets: 3
+  - Repetitions: 12-15
+- Reverse Crunches
+  - Sets: 3
+  - Repetitions: 12-15
 
-## **Day 3:**
+*Rest 60 seconds between sets.*
 
-- **Cardiovascular Exercise:**
+## **Day 4 (Wednesday): Legs, Glutes, Calves**
 
-  - 30 minutes of cycling or elliptical training.
+- Squats
+  - Sets: 4
+  - Repetitions: 6-8
+- Lunges
+  - Sets: 4
+  - Repetitions: 6-8
+- Deadlifts
+  - Sets: 4
+  - Repetitions: 6-8
+- Leg Press
+  - Sets: 3
+  - Repetitions: 8-12
+- Calf Raises
+  - Sets: 3
+  - Repetitions: 12-15
+- Glute Bridges
+  - Sets: 3
+  - Repetitions: 12-15
+- Leg Extensions
+  - Sets: 3
+  - Repetitions: 8-12
+- Leg Curls
+  - Sets: 3
+  - Repetitions: 8-12
 
-- **Strength Training:**
-  - Squats: 3 sets of 12 reps.
-  - Lunges: 3 sets of 15 reps.
-  - Deadlifts: 3 sets of 10 reps.
-  - Leg Press: 3 sets of 12 reps.
-  - Calf Raises: 3 sets of 20 reps.
-  - Glute Bridges: 3 sets of 15 reps.
-  - Leg Extensions: 3 sets of 12 reps.
-  - Leg Curls: 3 sets of 15 reps.
+*Rest 60 seconds between sets.*
 
-## **Day 4:**
+## **Day 5 (Thursday): Chest, Shoulders, Triceps**
 
-- **Cardiovascular Exercise:**
+- Incline Bench Press
+  - Sets: 4
+  - Repetitions: 6-8
+- Military Press
+  - Sets: 4
+  - Repetitions: 6-8
+- Tricep Pushdowns
+  - Sets: 3
+  - Repetitions: 8-12
+- Cable Crossovers
+  - Sets: 3
+  - Repetitions: 8-12
+- Reverse Flys
+  - Sets: 3
+  - Repetitions: 8-12
+- Upright Rows
+  - Sets: 3
+  - Repetitions: 8-12
+- Skull Crushers
+  - Sets: 3
+  - Repetitions: 8-12
+- Arnold Press
+  - Sets: 3
+  - Repetitions: 8-12
 
-  - 30 minutes of running or cycling.
+*Rest 60 seconds between sets.*
 
-- **Strength Training:**
-  - Incline Bench Press: 3 sets of 10 reps.
-  - Military Press: 3 sets of 12 reps.
-  - Tricep Pushdowns: 3 sets of 15 reps.
-  - Cable Crossovers: 3 sets of 12 reps.
-  - Reverse Flys: 3 sets of 15 reps.
-  - Upright Rows: 3 sets of 12 reps.
-  - Skull Crushers: 3 sets of 15 reps.
-  - Arnold Press: 3 sets of 12 reps.
+## **Day 6 (Friday): Back, Biceps, Abs**
 
-## **Day 5:**
+- Chin-Ups
+  - Sets: 4
+  - Repetitions: 6-8
+- Seated Rows
+  - Sets: 4
+  - Repetitions: 6-8
+- Cable Pull-Downs
+  - Sets: 3
+  - Repetitions: 8-12
+- Preacher Curls
+  - Sets: 3
+  - Repetitions: 8-12
+- Concentration Curls
+  - Sets: 3
+  - Repetitions: 8-12
+- Planks
+  - Sets: 3
+  - Hold for 30-60 seconds
+- Russian Twists
+  - Sets: 3
+  - Repetitions: 12-15
+- Side Planks
+  - Sets: 3
+  - Hold for 30-60 seconds
 
-- **Cardiovascular Exercise:**
+*Rest 60 seconds between sets.*
 
-  - 30 minutes of swimming or brisk walking.
+## **Day 7 (Saturday): Legs, Glutes, Calves**
 
-- **Strength Training:**
-  - Chin-Ups: 3 sets to failure.
-  - Seated Rows: 3 sets of 12 reps.
-  - Cable Pull-Downs: 3 sets of 15 reps.
-  - Preacher Curls: 3 sets of 12 reps.
-  - Concentration Curls: 3 sets of 15 reps.
-  - Planks: 3 sets, hold for 1 minute.
-  - Russian Twists: 3 sets of 20 reps.
-  - Side Planks: 3 sets, hold for 30 seconds each side.
+- Front Squats
+  - Sets: 4
+  - Repetitions: 6-8
+- Bulgarian Split Squats
+  - Sets: 4
+  - Repetitions: 6-8
+- Romanian Deadlifts
+  - Sets: 4
+  - Repetitions: 6-8
+- Leg Curls
+  - Sets: 3
+  - Repetitions: 8-12
+- Seated Calf Raises
+  - Sets: 3
+  - Repetitions: 12-15
+- Hip Thrusts
+  - Sets: 3
+  - Repetitions: 12-15
+- Leg Press Calf Raises
+  - Sets: 3
+  - Repetitions: 12-15
+- Donkey Kicks
+  - Sets: 3
+  - Repetitions: 12-15
 
-## **Day 6:**
-
-- **Cardiovascular Exercise:**
-
-  - 30 minutes of cycling or elliptical training.
-
-- **Strength Training:**
-  - Front Squats: 3 sets of 12 reps.
-  - Bulgarian Split Squats: 3 sets of 15 reps.
-  - Romanian Deadlifts: 3 sets of 10 reps.
-  - Leg Curls: 3 sets of 12 reps.
-  - Seated Calf Raises: 3 sets of 20 reps.
-  - Hip Thrusts: 3 sets of 15 reps.
-  - Leg Press Calf Raises: 3 sets of 20 reps.
-  - Donkey Kicks: 3 sets of 15 reps.
-
-## **Day 7:**
-
-- **Full Body Circuit:**
-  - Push-Ups: 3 sets of 20 reps.
-  - Squat Jumps: 3 sets of 15 reps.
-  - Pull-Ups: 3 sets to failure.
-  - Burpees: 3 sets of 15 reps.
-  - Mountain Climbers: 3 sets of 20 reps.
-  - Plank Jacks: 3 sets of 15 reps.
-  - Jumping Lunges: 3 sets of 20 reps.
-  - Russian Twists: 3 sets of 20 reps.
+*Rest 60 seconds between sets.*
 
 ---
 
