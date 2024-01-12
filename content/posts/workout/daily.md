@@ -1,14 +1,22 @@
 ---
-title: "Daily Workout Schedule"
+title: "Full Body Strength and Muscle Building Program"
 date: 2024-01-01T18:00:17+05:30
 draft: false
 tags: ["workout", "fitness","routine"]
 categories: ["fitness", "workout", "routine"]
 ---
 
-# **Workout Plan**
+
+
+## **Overview**
+
+This comprehensive workout program is designed for individuals looking to build strength and muscle across all major muscle groups. The program spans seven days, targeting different muscle groups each day. The combination of compound and isolation exercises ensures a balanced and effective approach to achieve your fitness goals.
 
 ## **Day 1 (Sunday): Full Body Circuit**
+
+1. A high-intensity circuit focusing on full-body movements.
+2. Each exercise is performed for a set number of repetitions, with minimal rest between exercises.
+3. Aim for 3-5 rounds, and rest for 60 seconds between rounds.
 
 - Push-Ups
   - Sets: 3
@@ -39,6 +47,9 @@ categories: ["fitness", "workout", "routine"]
 
 ## **Day 2 (Monday): Chest, Shoulders, Triceps**
 
+1. Concentrates on chest, shoulders, and triceps with a mix of compound and isolation exercises.
+2. Higher weight and lower rep ranges for strength development.
+
 - Bench Press
   - Sets: 4
   - Repetitions: 6-8
@@ -64,6 +75,9 @@ categories: ["fitness", "workout", "routine"]
 *Rest 60 seconds between sets.*
 
 ## **Day 3 (Tuesday): Back, Biceps, Abs**
+
+1. Emphasizes back, biceps, and core muscles.
+2. Incorporates pull-ups, rows, and curls for balanced upper body development.
 
 - Pull-Ups
   - Sets: 4
@@ -94,6 +108,9 @@ categories: ["fitness", "workout", "routine"]
 
 ## **Day 4 (Wednesday): Legs, Glutes, Calves**
 
+1. Targets the lower body with squats, lunges, and deadlifts.
+2. A combination of strength and hypertrophy-focused exercises for leg development.
+
 - Squats
   - Sets: 4
   - Repetitions: 6-8
@@ -122,6 +139,9 @@ categories: ["fitness", "workout", "routine"]
 *Rest 60 seconds between sets.*
 
 ## **Day 5 (Thursday): Chest, Shoulders, Triceps**
+
+1. Another session to enhance chest, shoulders, and triceps strength.
+2. Varied exercises to ensure muscle stimulation and growth.
 
 - Incline Bench Press
   - Sets: 4
@@ -152,6 +172,9 @@ categories: ["fitness", "workout", "routine"]
 
 ## **Day 6 (Friday): Back, Biceps, Abs**
 
+1. Another round of exercises for a well-rounded back, biceps, and core workout.
+2. Incorporates both compound and isolation movements.
+
 - Chin-Ups
   - Sets: 4
   - Repetitions: 6-8
@@ -180,6 +203,9 @@ categories: ["fitness", "workout", "routine"]
 *Rest 60 seconds between sets.*
 
 ## **Day 7 (Saturday): Legs, Glutes, Calves**
+
+1. Final session of the week targeting the lower body.
+2. A mix of compound and isolation exercises for complete leg development.
 
 - Front Squats
   - Sets: 4
