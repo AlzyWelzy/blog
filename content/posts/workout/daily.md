@@ -3,7 +3,7 @@ title: "Full Body Strength and Muscle Building Program"
 date: 2024-01-01T18:00:17+05:30
 draft: false
 tags: ["workout", "fitness","routine", "full body"]
-categories: ["fitness", "workout", "routine"]
+categories: ["fitness", "workout", "routine","full body", "strength and muscle building"]
 ---
 
 
