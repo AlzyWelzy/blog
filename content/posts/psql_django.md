@@ -86,6 +86,18 @@ DB_PORT =
 DB_PASSWORD =
 ```
 
+## All Commands in one liner
+
+```sql
+User
+CREATE DATABASE yourdbname;
+CREATE USER yourdbuser WITH PASSWORD 'yourdbpassword';
+ALTER ROLE yourdbuser SET client_encoding TO 'utf8';
+ALTER ROLE yourdbuser SET default_transaction_isolation TO 'read committed';
+ALTER ROLE yourdbuser SET timezone TO 'UTC';
+ALTER DATABASE your_database_name OWNER TO yourdbuser;
+```
+
 ## Conclusion
 
 You have successfully set up a PostgreSQL database named yourdbname and created a user yourdbuser with the specified configurations. This database and user are now ready to be used for your applications.
