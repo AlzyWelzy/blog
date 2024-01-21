@@ -98,7 +98,7 @@ CREATE USER yourdbuser WITH PASSWORD 'yourdbpassword';
 ALTER ROLE yourdbuser SET client_encoding TO 'utf8';
 ALTER ROLE yourdbuser SET default_transaction_isolation TO 'read committed';
 ALTER ROLE yourdbuser SET timezone TO 'UTC';
-ALTER DATABASE your_database_name OWNER TO yourdbuser;
+ALTER DATABASE yourdbname OWNER TO yourdbuser;
 ```
 
 ## Conclusion
