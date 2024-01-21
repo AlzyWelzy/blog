@@ -93,7 +93,6 @@ DB_PASSWORD =
 ## All SQL Commands in one line
 
 ```sql
-User
 CREATE DATABASE yourdbname;
 CREATE USER yourdbuser WITH PASSWORD 'yourdbpassword';
 ALTER ROLE yourdbuser SET client_encoding TO 'utf8';
