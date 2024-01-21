@@ -65,6 +65,8 @@ This command sets the owner of the database yourdbname to the user yourdbuser.
 
 ## Step 7: Connect to Django
 
+### Add these lines to settings.py
+
 ```python
 DATABASES = {
     "default": {
@@ -77,6 +79,8 @@ DATABASES = {
     }
 }
 ```
+
+### Configure environment variables
 
 ```env
 DB_HOST =
@@ -105,4 +109,3 @@ You have successfully set up a PostgreSQL database named yourdbname and created 
 Feel free to explore more PostgreSQL features and functionalities as you continue your journey with databases.
 
 Happy coding!
-
