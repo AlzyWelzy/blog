@@ -86,7 +86,7 @@ DB_PORT =
 DB_PASSWORD =
 ```
 
-## All Commands in one liner
+## All SQL Commands in one line
 
 ```sql
 User
