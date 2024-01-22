@@ -83,11 +83,11 @@ DATABASES = {
 ### Configure environment variables
 
 ```env
-DB_HOST =
-DB_NAME =
-DB_USER =
-DB_PORT =
-DB_PASSWORD =
+DB_HOST = localhost
+DB_NAME = yourdbname
+DB_USER = yourdbuser
+DB_PORT = 5432
+DB_PASSWORD = yourdbpassword
 ```
 
 ## All SQL Commands in one line
