@@ -1,5 +1,5 @@
 +++
-title = 'How to create a PostgreSQL database in Django'
+title = 'How to connect a PostgreSQL database in Django'
 date = 2024-01-21T22:14:54+05:30
 draft = false
 +++
