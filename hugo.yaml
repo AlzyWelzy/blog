@@ -8,10 +8,35 @@ theme: PaperMod
 # pygmentsCodeFencesGuessSyntax: true
 # pygmentsStyle: monokai
 
+
+
+
+
+
 # Enable Emoji
 enableEmoji: true
 
+# paginate: 10
+paginate: 3
+
+
 params:
+  env: "production"
+
+
+  keywords:
+    - "AlzyWelzy"
+    - "Manvendra"
+
+
+
+  description: "AlzyWelzy's Blog"
+
+
+  author: "AlzyWelzy"
+
+
+
   assets:
     favicon: img/personal/profile.jpg
     favicon16x16: img/personal/profile.jpg
@@ -49,6 +74,7 @@ params:
   ShowCodeCopyButtons: true
 
 menu:
+
   main:
     - identifier: categories
       name: Categories
