@@ -6,6 +6,8 @@ draft = false
 description= "Introduction to Django Conquered"
 author = "Manvendra Rajpoot"
 tags = ["Django", "Django Conquered"]
+categories = ["Django", "Django Conquered"]
+keywords = ["Django", "Django Conquered"]
 
 +++
 

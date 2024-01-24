@@ -8,34 +8,22 @@ theme: PaperMod
 # pygmentsCodeFencesGuessSyntax: true
 # pygmentsStyle: monokai
 
-
-
-
-
-
 # Enable Emoji
 enableEmoji: true
 
 # paginate: 10
 paginate: 3
 
-
 params:
   env: "production"
 
-
   keywords:
     - "AlzyWelzy"
-    - "Manvendra"
+    - "Manvendra Rajpoot"
 
+  description: "Manvendra Rajpoot's Blog - AlzyWelzy, where I write about everything and stuff."
 
-
-  description: "AlzyWelzy's Blog"
-
-
-  author: "AlzyWelzy"
-
-
+  author: "Manvendra Rajpoot"
 
   assets:
     favicon: img/personal/profile.jpg
@@ -74,7 +62,6 @@ params:
   ShowCodeCopyButtons: true
 
 menu:
-
   main:
     - identifier: categories
       name: Categories
