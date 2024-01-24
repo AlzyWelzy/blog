@@ -2,6 +2,11 @@
 title = 'Django Conquered: Introduction'
 date = 2024-01-24T22:27:47+05:30
 draft = false
+
+description= "Introduction to Django Conquered"
+author = "Manvendra Rajpoot"
+tags = ["Django", "Django Conquered"]
+
 +++
 
 ## What is Django Conquered?
